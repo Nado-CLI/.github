@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/Nado-CLI/.github/master/nado-logo.png" alt="nado logo" width="700"/>
 </p>
 
-<h1 align="center">nado</h1>
+<h1 align="center">NADO CLI</h1>
 
 > A modern, minimal Python CLI for modular project and package management.
 
